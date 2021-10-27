@@ -1,0 +1,6 @@
+order_id,customer_id,status,salesman_id,order_date
+1,8,in process,2,26-04-2010
+2,9,pending,3,26-04-2011
+3,9,pending,2,26-04-2012
+4,11,pending,5,26-04-2013
+5,12,arrived,2,26-04-2014

@@ -1,0 +1,6 @@
+FlightNumber,Start,Destination,Date,FlightsPerDay
+LH913,Frankfrut,London,2019-03-05,3
+LH914,Frankfrut,London,2019-03-06,1
+LH915,Frankfrut,London,2019-03-07,NULL
+LH916,Frankfrut,London,2019-03-08,2
+LH917,Frankfrut,London,NULL,3

@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,email,phone,hire_date,manager_id,job_title
+1,James,Smith,Smith@gmail,4628843,22-08-2005,1,Developer
+2,Michael,Rose,Rose@gmail,67853,22-08-2006,2,Designer
+3,Robert,William,William@gmail,664829,22-08-2007,3,Editor
+4,Maria,Jones,Jones@gmail,67583,22-08-2008,4,Manager
+5,Jen,Browns,Browns@gmail,6278482,22-08-2009,5,Team Lead

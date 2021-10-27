@@ -1,0 +1,6 @@
+order_id,customer_id,status,salesman_id,order_date,quantity
+1,8,in process,2,26-04-10,5483
+2,9,pending,3,26-04-11,6732
+3,10,arrived,2,26-04-12,924
+4,11,pending,5,26-04-13,424
+5,12,arrived,2,26-04-14,836
